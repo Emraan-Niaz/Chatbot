@@ -3,7 +3,7 @@
 
 # Ein einfacher ChatBot
 # (c) 2020 by me, Lizenz GPLv3
-
+#import
 import  random
 
 # zufällige Antworten
