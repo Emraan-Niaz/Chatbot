@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": ".venv\\Scripts\\python.exe",
+    "python.pythonPath": "C:/git/python/chatbot/v1/.venv/Scripts/python3.9",
     "python.linting.flake8Enabled": true,
     "python.linting.enabled": true
 }
