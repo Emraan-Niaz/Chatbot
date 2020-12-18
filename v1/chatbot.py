@@ -11,7 +11,7 @@ zufallsantworten = ["Oh wirklich..", "interessant", "Das kann man so sehen", "Ic
 
 # Stopwörter
 reaktionen = {"hallo": "Hali hallo",
-                "Wie geht es dir?": "Mir geht es auch gut",
+                "wie geht es dir?": "Mir geht es auch gut",
                 "schmeckt": "Ich habe keinen Geschmacksinn",
                  "warum?" : "Weil ich machine bin :)",
                  "nein": "Gut", "gut":"Danke", "danke" : "Bitte"}
